@@ -1,0 +1,215 @@
+NAFT - NFT Markeplace
+
+
+
+# HEADER
+
+alt = NAFT logo
+
+<ion-icon name="menu-outline"></ion-icon>
+
+Home
+About
+Explore
+Creators
+Collections
+Blog
+Contact
+
+Sign in
+
+
+
+# HERO
+
+Discover digital art sell your specific NFT
+
+Partner with one of the world’s largest retailers to showcase your brand and products.
+
+Explore more
+Create now
+
+alt = nft art
+
+
+
+# NEW PRODUCT
+
+Newest Items
+
+View all
+
+alt = Dimond riding a blue body art
+<ion-icon name="ellipsis-horizontal"></ion-icon>
+<ion-icon name="heart"></ion-icon>
+Place bid
+
+Dimond riding a blue body art
+alt = Jack Reacher
+Jack R
+@jackr
+0.568ETH
+Current Bid
+12+ Place Bid.
+New
+
+
+
+# ABOUT
+
+Create and sell your NFTs
+
+01
+alt = wallet icon
+Set up Your Wallet
+There are many variations of passagi Ipsum available but the majorty have eration in some form, by injected
+
+02
+alt = collection icon
+Create Your Collection
+There are many variations of passagi Ipsum available but the majorty have eration in some form, by injected
+
+03
+alt = folder icon
+Add Your NFT's
+There are many variations of passagi Ipsum available but the majorty have eration in some form, by injected
+
+04
+alt = diamond icon
+Sell Your NFT's
+There are many variations of passagi Ipsum available but the majorty have eration in some form, by injected
+
+
+
+# EXPLORE PRODUCT
+
+Explore Product
+
+Explore
+
+alt = Dimond riding a blue body art
+<ion-icon name="ellipsis-horizontal"></ion-icon>
+<ion-icon name="heart"></ion-icon>
+Place bid
+
+Dimond riding a blue body art
+alt = Jack Reacher
+Jack R
+@jackr
+0.568ETH
+Current Bid
+12+ Place Bid.
+New
+
+
+
+# TOP SELLER
+
+Top seller in 1 day
+
+<ion-icon name="chevron-down"></ion-icon>
+
+01
+alt = Brodband
+<ion-icon name="checkmark-outline"></ion-icon>
+Brodband
+$2500,000
+
+02
+alt = Alexander
+Alexander
+
+03
+alt = William Jeck
+William Jeck
+
+04
+alt = Henry Jhon
+Henry Jhon
+
+05
+alt = James Thomas
+James Thomas
+
+06
+alt = Anthony Roy
+Anthony Roy
+
+07
+alt = Chritopher
+Chritopher
+
+08 
+alt = Elijabeth Ran
+Elijabeth Ran
+
+09
+alt = Brodband HR
+Brodband HR
+
+10
+alt = Michel Raw
+Michel Raw
+
+11
+alt = Liam Dylan
+Liam Dylan
+
+12 
+alt = Thomas Jar
+Thomas Jar
+
+
+#FOOTER 
+
+alt = NAFT logo
+
+There are many variations of passages of but the majority have suffered alterations cted humour, or randomsed words which htly believable. If you are going
+
+Join the community
+
+href = https://github.com/codewithsadee
+<ion-icon name="logo-github"></ion-icon>
+
+href = https://twitter.com/codewithsadee
+<ion-icon name="logo-twitter"></ion-icon>
+
+href = https://www.instagram.com/codewithsadee/
+<ion-icon name="logo-instagram"></ion-icon>
+
+href = https://www.youtube.com/c/codewithsadee
+<ion-icon name="logo-youtube"></ion-icon>
+
+Marketplace
+
+Gaming
+Product
+All NFTs
+Social Network
+Domain Names
+Collectibles
+
+Explore
+
+Featured Drops
+Live Auctions
+All NFTs
+Collections
+Top Seller
+Items Details
+
+Supports
+
+Settings & Privacy
+Help & Support
+Live Auctions
+Item Details
+24/7 Supports
+Blog
+
+2022 @codewithsadee all rights reserved
+
+Privacy Policy
+Terms & Conditions
+
+<ion-icon name="arrow-up-outline"></ion-icon>
